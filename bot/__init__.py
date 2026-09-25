@@ -1,0 +1,1 @@
+"""AurumBot trading package."""
